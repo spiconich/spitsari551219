@@ -142,7 +142,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     }
     hwndButtonExit = CreateWindow(
         "BUTTON", 
-        "OK", 
+        "ADD DLL", 
         WS_VISIBLE | WS_CHILD | BS_DEFPUSHBUTTON,  // styles
         500, 
         525, 
